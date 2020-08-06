@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formazione on Perdo tempo</title>
+    <link>/tags/formazione/</link>
+    <description>Recent content in Formazione on Perdo tempo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>italian</language>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/formazione/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cosa sto leggendo </title>
+      <link>/libri/a_libri/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/libri/a_libri/</guid>
+      <description>Cosa ho letto e cosa sto leggendo  Congo, David Van Reybrouck [Gotico Americano, Farinelli] (https://www.storytel.com/it/it/books/1146241-Gotico-Americano) I pascoli del cielo, Steinbeck Quando siete felici fateci caso, Vonnegut L&amp;rsquo;amore ai tempi del colera, Marquez Nessuna cortesia all&amp;rsquo;uscita, Carlotto Baci da 100 dollari, Vonnegut Strade blu, W.L. Heatmoon Flatlandia, Edwin A. Abbott Don Chisciotte della Mancia, Cervantes Casino totale, Jean Claude Izzo Chourmo, Jean Claude Izzo Solea, Jean Claude Izzo Altai, Wu Ming Al sangue, Anthony Bourdain Afghanistan picture show, ovvero come ho salvato il mondo , William T.</description>
+    </item>
+    
+  </channel>
+</rss>
